@@ -4,38 +4,26 @@
 
 ## GitHub and HTML
 
-Evan Johnson + Derek Fons
+Brian Cama & Sarah Mcalear
 
 Note: Give overview of course. Set class expectations.
 
 ---
 
-## Agenda
-
-* <!--- .element: class="fragment" data-fragment-index="1" -->GitHub
-  * <!--- .element: class="fragment" data-fragment-index="2" -->Review
-  * <!--- .element: class="fragment" data-fragment-index="3" -->Github Lab
-* <!--- .element: class="fragment" data-fragment-index="4" -->HTML
-  * <!--- .element: class="fragment" data-fragment-index="5" -->Tags Review
-  * <!--- .element: class="fragment" data-fragment-index="6" -->Structural Reading w/ Understanding
-  * <!--- .element: class="fragment" data-fragment-index="7" -->HTML Code Along
-  * <!--- .element: class="fragment" data-fragment-index="8" -->HTML Lab
-
----
-
 ## Learning Objective
 
-* <!--- .element: class="fragment" data-fragment-index="1" -->Know how to clone, fork, sync, and update a GitHub repository
-* <!--- .element: class="fragment" data-fragment-index="2" -->Describe what an HTML tag is
-* <!--- .element: class="fragment" data-fragment-index="3" -->Demonstrate how to add an attribute to an HTML tag
-* <!--- .element: class="fragment" data-fragment-index="4" -->Recall three types of HTML tags
+* <!--- .element: class="fragment" data-fragment-index="1" -->Know how to clone, sync, and update a GitHub repository
+* <!--- .element: class="fragment" data-fragment-index="2" -->Define Git and explain it's benefits
+* <!--- .element: class="fragment" data-fragment-index="3" -->Describe what an HTML tag is
+* <!--- .element: class="fragment" data-fragment-index="4" -->Describe the DOM and draw a simple DOM tree
+* <!--- .element: class="fragment" data-fragment-index="5" -->Recall three types of HTML tags
 
 
 ---
 
 ## GitHub
 
-<img src="/img/Octocat.png" style="border:none; height:400px; background: transparent; box-shadow:none;" />
+<img src="../img/Octocat.png" style="border:none; height:400px; background: transparent; box-shadow:none;" />
 
 ----
 
@@ -213,7 +201,6 @@ Anchor Tags (Links)
 <pre><code data-trim class="html">
 &lt;a href="link"&gt;Link text&lt;/a&gt;
 </code></pre>
-
 ----
 
 ### HTML Lab
@@ -221,6 +208,18 @@ Anchor Tags (Links)
 <img src="/img/exercise_icon_md.png" style="border:none;box-shadow:none;background:transparent;" />
 
 Note: Magazine and newspaper. Have them declare tags they know, and ask about one's they don't know.
+
+----
+
+### The DOM
+
+The Document Object Model defines the logical structure of documents and the way a document is accessed and manipulated.
+
+----
+
+### DOM Structure
+
+<img src="/img/html-boxes.svg" style="border:none;box-shadow:none;background:white;" />
 
 ----
 
@@ -238,7 +237,7 @@ Note: General Assembly Press Release
 
 Note: Just HTML of Cookie Recipe
 
----
+----
 
 ## Homework
 
@@ -251,9 +250,10 @@ Note: Just HTML of Cookie Recipe
 
 ## Learning Objective
 
-* Know how to clone, fork, sync, and update a GitHub repository
+* Know how to clone, sync, and update a GitHub repository
+* Define Git and explain it's benefits
 * Describe what an HTML tag is
-* Demonstrate how to add an attribute to an HTML tag
+* Describe the DOM and draw a simple DOM tree
 * Recall three types of HTML tags
 
 ----
