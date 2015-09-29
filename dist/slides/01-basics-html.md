@@ -29,11 +29,9 @@ Note: Give overview of course. Set class expectations.
 
 ### What is GitHub?
 
-* <!--- .element: class="fragment" data-fragment-index="1" -->**GitHub** is a *platform*. **Git** is a *version control system*.
+* <!--- .element: class="fragment" data-fragment-index="1" -->**Git** is a *version control system*. **GitHub** is a *platform*. 
 * <!--- .element: class="fragment" data-fragment-index="2" -->**GitHub** stores files like Dropbox or Google Drive.
 * <!--- .element: class="fragment" data-fragment-index="3" -->**Git/GitHub** keep a history of changes made to your project's files.
-* <!--- .element: class="fragment" data-fragment-index="4" -->**GitHub** makes it easy to share code with other people.
-* <!--- .element: class="fragment" data-fragment-index="5" -->**Git** was designed to allow multiple developers work on the same projec at the same time.
 
 ----
 
@@ -41,7 +39,6 @@ Note: Give overview of course. Set class expectations.
 
 * <!--- .element: class="fragment" data-fragment-index="1" -->Reverting
 * <!--- .element: class="fragment" data-fragment-index="2" -->Collaborating
-* <!--- .element: class="fragment" data-fragment-index="3" -->Stats
 * <!--- .element: class="fragment" data-fragment-index="4" -->Feedback
 
 ----
@@ -61,7 +58,6 @@ Note: Give overview of course. Set class expectations.
 <img src="/img/timeline.jpg" style="border:none;" />
 
 Analogous to a timeline, or the chapters in a story.
-
 ----
 
 ### Commit Log
@@ -239,26 +235,22 @@ Note: Just HTML of Cookie Recipe
 
 ----
 
-## Homework
+### Cookie Recipe
 
 * <!--- .element: class="fragment" data-fragment-index="1" -->Push/sync cookie recipe to GitHub
   * <!--- .element: class="fragment" data-fragment-index="2" -->We'll walk through syncing what you have now as a demonstration
-* <!--- .element: class="fragment" data-fragment-index="3" -->If you feel comfortable with CSS, feel free to add styling to the
-  Cookie Recipe. If not, no worries, we will go over CSS next class.
+* <!--- .element: class="fragment" data-fragment-index="3" -->If you feel comfortable with CSS, feel free to add styling to the Cookie Recipe, if not don't worry about it we will go over CSS in our next class.
 
-----
-
-## Learning Objective
-
-* Know how to clone, sync, and update a GitHub repository
-* Define Git and explain it's benefits
-* Describe what an HTML tag is
-* Describe the DOM and draw a simple DOM tree
-* Recall three types of HTML tags
-
-----
+---
 
 ### Exit Tickets
 
 Give us feedback! Let us know what we're doing well at, and more
 importantly, what we can improve at.
+
+----
+
+### Homework
+
+* <!--- .element: class="fragment" data-fragment-index="1" -->Finish Cookie Recipe
+* <!--- .element: class="fragment" data-fragment-index="2" -->Start thinking about your Final Projects
